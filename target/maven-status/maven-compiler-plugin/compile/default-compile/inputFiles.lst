@@ -1,0 +1,7 @@
+C:\Code\CMS\fcp-alert-investigator\src\main\java\se\seb\fcp\investigation\domain\Alert.java
+C:\Code\CMS\fcp-alert-investigator\src\main\java\se\seb\fcp\investigation\infrastructure\producer\KafkaProducer.java
+C:\Code\CMS\fcp-alert-investigator\src\main\java\se\seb\fcp\investigation\config\SpringKafkaConfig.java
+C:\Code\CMS\fcp-alert-investigator\src\main\java\se\seb\fcp\investigation\repository\AlertsRepository.java
+C:\Code\CMS\fcp-alert-investigator\src\main\java\se\seb\fcp\investigation\constant\ApplicationConstant.java
+C:\Code\CMS\fcp-alert-investigator\src\main\java\se\seb\fcp\investigation\infrastructure\consumer\KafkaConsumer.java
+C:\Code\CMS\fcp-alert-investigator\src\main\java\se\seb\fcp\investigation\Application.java

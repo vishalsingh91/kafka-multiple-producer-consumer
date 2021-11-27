@@ -1,0 +1,7 @@
+se\seb\fcp\investigation\infrastructure\consumer\KafkaConsumer.class
+se\seb\fcp\investigation\constant\ApplicationConstant.class
+se\seb\fcp\investigation\domain\Alert.class
+se\seb\fcp\investigation\Application.class
+se\seb\fcp\investigation\config\SpringKafkaConfig.class
+se\seb\fcp\investigation\infrastructure\producer\KafkaProducer.class
+se\seb\fcp\investigation\repository\AlertsRepository.class
